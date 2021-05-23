@@ -1,4 +1,4 @@
-# 📖 DiscordOAuth2
+# 📖 disauth
 A Discord OAuth2 PHP class.
 
 ## 🏷️ Example
